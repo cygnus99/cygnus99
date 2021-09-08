@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cygnus99
-- 👀 I’m interested in software development, finance, and physics
+- 👀 I’m interested in software development, data science, finance, and physics
 - 🌱 I’m currently learning HTML and Python for data science
 - 💞️ I’m looking to collaborate on simple beginner projects
 - 📫 How to reach me: Avi Aggarwal on LinkedIn
